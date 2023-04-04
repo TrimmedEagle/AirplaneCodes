@@ -1,4 +1,7 @@
-[
-    ["MILITARY", 20000, "Cash"],
-    ["RELEASE", 15000, "Cash"]
-]
+local RedeemCodeFunctions = {
+	["6thGEN"] = function(player) _G.EditCash(player,50000, false, true) end;
+	["DELTA"] = function(player) _G.EditCash(player,50000, false, true) end;
+	["100K"] = function(player) _G.EditCash(player,60000, false, true) end;
+	["FALCON"] = function(player) _G.EditCash(player,50000, false, true) end;
+	["EASTER"] = function(player) _G.EditCash(player,50000, false, true) end;
+}
