@@ -4,5 +4,5 @@
 	"FALCON":{"Value":50000,"Type":"GiveCash"},
 	"EASTER":{"Value":50000,"Type":"GiveCash"},
 	"6thGEN":{"Value":50000,"Type":"GiveCash"},
-	"SCRIPTY":{"Value":500000,"Type":"GiveCash"}
+	"SPARKS":{"Value":30000,"Type":"GiveCash"}
 } 
