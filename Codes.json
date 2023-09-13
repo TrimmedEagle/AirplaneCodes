@@ -5,5 +5,5 @@
 	"EASTER":{"Value":50000,"Type":"GiveCash"},
 	"6thGEN":{"Value":50000,"Type":"GiveCash"},
 	"100M":{"Value":100000,"Type":"GiveCash"},
-	"CHINOOK":{"Value":50000,"Type":"GiveCash"}
+	"TESTBONUS":{"Value":50000,"Type":"GiveCash"}
 } 
