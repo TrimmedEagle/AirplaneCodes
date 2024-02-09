@@ -6,6 +6,6 @@
 	"B1":{"Value":50000,"Type":"GiveCash"},
 	"YF23":{"Value":50000,"Type":"GiveCash"},
 	"VULCAN":{"Value":25000,"Type":"GiveCash"},
-	"GiveTestersCash":{"Value":2000000,"Type":"GiveCash"},
+	"TEST":{"Value":2000000,"Type":"GiveTestersCash"},
 	"minakoarisato24":{"Value":400000,"Type":"GiveCash"}
 } 
